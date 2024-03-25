@@ -1,0 +1,3 @@
+[submodule "lib/kickass-crypto"]
+	path = lib/kickass-crypto
+	url = git@github.com:jj5/kickass-crypto.git
